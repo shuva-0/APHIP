@@ -6,8 +6,8 @@
 
 ## 🔗 Live System
 
-- 🚀 Live Demo: https://aqua-safe-x.vercel.app/
-- 💻 GitHub: https://github.com/shuva-0/AquaSafe-x
+- 🚀 Live Demo: https://aphip.vercel.app/
+- 💻 GitHub: https://github.com/shuva-0/APHIP
 
 ---
 
